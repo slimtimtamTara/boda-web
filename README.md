@@ -1,1 +1,1 @@
-# boda-web beans
+# boda-web cats
