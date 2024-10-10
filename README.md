@@ -1,1 +1,1 @@
-# boda-web
+# boda-web beans
